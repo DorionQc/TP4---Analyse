@@ -1,0 +1,9 @@
+D:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\bin\Debug\CoR-Exemple1.exe.config
+D:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\bin\Debug\CoR-Exemple1.exe
+D:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\bin\Debug\CoR-Exemple1.pdb
+D:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\obj\Debug\CoR-Exemple1.csprojResolveAssemblyReference.cache
+D:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\obj\Debug\CoR-Exemple1.exe
+D:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\obj\Debug\CoR-Exemple1.pdb
+E:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\bin\Debug\CoR-Exemple1.exe.config
+E:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\obj\Debug\CoR-Exemple1.exe
+E:\Cegep Session 4\Anal\TP4\CoR-Exemple1\CoR-Exemple1\obj\Debug\CoR-Exemple1.pdb
