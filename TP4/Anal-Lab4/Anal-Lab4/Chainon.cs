@@ -201,7 +201,6 @@ namespace Anal_Lab4
                 pt.Y = y;
                 m_Next.Draw(g, pt, diaSize, ref maxHeight);
             }
-
         }
     }
 }

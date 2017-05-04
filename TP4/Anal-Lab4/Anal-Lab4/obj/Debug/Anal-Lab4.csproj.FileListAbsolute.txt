@@ -27,3 +27,13 @@ D:\Cegep Session 4\Anal\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal_Lab4.Properties.R
 D:\Cegep Session 4\Anal\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal-Lab4.csproj.GenerateResource.Cache
 F:\Cegep Session 4\Anal\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal_Lab4.DialogPresentation.resources
 D:\Cegep Session 4\Anal\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal_Lab4.DialogPresentation.resources
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\bin\Debug\Anal-Lab4.exe.config
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal-Lab4.exe
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal-Lab4.pdb
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\bin\Debug\Anal-Lab4.exe
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\bin\Debug\Anal-Lab4.pdb
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal-Lab4.csprojResolveAssemblyReference.cache
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal_Lab4.DialogPresentation.resources
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal_Lab4.frmCoR.resources
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal_Lab4.Properties.Resources.resources
+D:\Cegep Session 4\Anal\TP4-2\TP4---Analyse\TP4\Anal-Lab4\Anal-Lab4\obj\Debug\Anal-Lab4.csproj.GenerateResource.Cache
